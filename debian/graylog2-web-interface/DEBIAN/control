@@ -2,7 +2,7 @@ Package: graylog2-web-interface
 Version: 0.9.6p1-1
 Architecture: amd64
 Maintainer: Jordan Evans <jordan.evans@rackspace.com>
-Installed-Size: 14244
+Installed-Size: 14248
 Section: unknown
 Priority: extra
 Homepage: <insert the upstream URL, if relevant>
