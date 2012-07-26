@@ -1,3 +1,9 @@
+graylog2-web-interface (0.9.6p1-1ubuntu1) lucid; urgency=low
+
+  * bump package version 
+
+ -- Jordan Evans <jordan.evans@rackspace.com>  Fri, 27 Jul 2012 00:59:52 +0200
+
 graylog2-web-interface (0.9.6p1-1) unstable; urgency=low
 
   * Initial release

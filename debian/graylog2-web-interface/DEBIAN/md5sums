@@ -258,8 +258,8 @@ e23129db78ea1d4578155efb7d334d6a  var/www/graylog2-web-interface-0.9.6p1/app/mod
 484e4774206b30a5cb3da3fb39c8e456  var/www/graylog2-web-interface-0.9.6p1/app/models/version.rb
 ff7fb3d02a5905ed4af7e47b6e09751a  var/www/graylog2-web-interface-0.9.6p1/git_hooks/remove_all_trailing_spaces.rb
 95c19ed581fece7b7b03cee99c4be633  var/www/graylog2-web-interface-0.9.6p1/git_hooks/pre-commit
-264e324638e88356025ae0e51d5ea8b5  var/www/graylog2-web-interface-0.9.6p1/config.ru/config.ru
-ae3d9d8acf3a574b76b9bd8a53c2107f  var/www/graylog2-web-interface-0.9.6p1/Gemfile/Gemfile
+264e324638e88356025ae0e51d5ea8b5  var/www/graylog2-web-interface-0.9.6p1/config.ru
+ae3d9d8acf3a574b76b9bd8a53c2107f  var/www/graylog2-web-interface-0.9.6p1/Gemfile
 10972fb42ee39e40156080e78de587ed  var/www/graylog2-web-interface-0.9.6p1/config/indexer.yml.example
 f86d83d98d645622d29c494034cb5e30  var/www/graylog2-web-interface-0.9.6p1/config/general.yml.example
 db4b902854e3f164eca50f0beba9bea7  var/www/graylog2-web-interface-0.9.6p1/config/locales/en.yml
@@ -274,7 +274,7 @@ c9184461c94a715aaa8ce0b17c0516dc  var/www/graylog2-web-interface-0.9.6p1/config/
 2cf30b1dcf753069b5511bef7d2053a6  var/www/graylog2-web-interface-0.9.6p1/config/initializers/backtrace_silencers.rb
 af14809b465ee06ef6ecbf5be24f046a  var/www/graylog2-web-interface-0.9.6p1/config/initializers/indexer.rb
 bff81da024a33c0bd7be400ecd4e38a1  var/www/graylog2-web-interface-0.9.6p1/config/email.yml.example
-d32239bcb673463ab874e80d47fae504  var/www/graylog2-web-interface-0.9.6p1/COPYING/COPYING
+d32239bcb673463ab874e80d47fae504  var/www/graylog2-web-interface-0.9.6p1/COPYING
 a1f53002ca86c4dcb51c4c27b1bd8d14  var/www/graylog2-web-interface-0.9.6p1/lib/authenticated_test_helper.rb
 774f11c5a26eb442367ffca8282c975f  var/www/graylog2-web-interface-0.9.6p1/lib/tasks/travis.rake
 127dcb756b4b8bfbd15ed24471a17c01  var/www/graylog2-web-interface-0.9.6p1/lib/tasks/streamalarms.rake
@@ -285,11 +285,11 @@ a1f53002ca86c4dcb51c4c27b1bd8d14  var/www/graylog2-web-interface-0.9.6p1/lib/aut
 5dc40aa35f8b033f7ca43dbff3f847b0  var/www/graylog2-web-interface-0.9.6p1/gimps/partygorilla1.xcf
 10e5feb37182b4b43be8529d01d72f00  var/www/graylog2-web-interface-0.9.6p1/gimps/partygorilla1_black_bg.xcf
 9bfd8e2313cd40bb622ee66cdc28eebf  var/www/graylog2-web-interface-0.9.6p1/gimps/graylog.xcf
-6887e6d92a488b7968005408cf723238  var/www/graylog2-web-interface-0.9.6p1/Rakefile/Rakefile
+6887e6d92a488b7968005408cf723238  var/www/graylog2-web-interface-0.9.6p1/Rakefile
 4c11ae223c430efce33bfcfb9e9cc7b6  var/www/graylog2-web-interface-0.9.6p1/script/rails
 6b2973f35d584590c045b1f6bc78a8cb  var/www/graylog2-web-interface-0.9.6p1/doc/README_FOR_APP
-1c3d8516d4c83e2cb7da84612a9e8c5b  var/www/graylog2-web-interface-0.9.6p1/Gemfile.lock/Gemfile.lock
-7667e0408318bd8134660f8668c7317a  var/www/graylog2-web-interface-0.9.6p1/README/README
+1c3d8516d4c83e2cb7da84612a9e8c5b  var/www/graylog2-web-interface-0.9.6p1/Gemfile.lock
+7667e0408318bd8134660f8668c7317a  var/www/graylog2-web-interface-0.9.6p1/README
 d41d8cd98f00b204e9800998ecf8427e  var/www/graylog2-web-interface-0.9.6p1/tmp/cache/.gitkeep
 c7bcd51f2a9c5905f9bd8d2dbb3334f6  var/www/graylog2-web-interface-0.9.6p1/build/build_release.sh
 34aff11401131c5152679ca53286f448  var/www/graylog2-web-interface-0.9.6p1/public/422.html
