@@ -1,1 +1,14 @@
 var/www/graylog2-web-interface-0.9.6p1
+var/www/graylog2-web-interface-0.9.6p1/app
+var/www/graylog2-web-interface-0.9.6p1/build
+var/www/graylog2-web-interface-0.9.6p1/config
+var/www/graylog2-web-interface-0.9.6p1/doc
+var/www/graylog2-web-interface-0.9.6p1/gimps
+var/www/graylog2-web-interface-0.9.6p1/git_hooks
+var/www/graylog2-web-interface-0.9.6p1/lib
+var/www/graylog2-web-interface-0.9.6p1/log
+var/www/graylog2-web-interface-0.9.6p1/public
+var/www/graylog2-web-interface-0.9.6p1/script
+var/www/graylog2-web-interface-0.9.6p1/test
+var/www/graylog2-web-interface-0.9.6p1/tmp
+var/www/graylog2-web-interface-0.9.6p1/vendor
