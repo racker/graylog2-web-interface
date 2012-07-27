@@ -1,5 +1,6 @@
 #!/bin/bash
 
+rm /var/www/graylog2-web
 ln -s /var/www/graylog2-web-interface-0.9.6p1 /var/www/graylog2-web
 cd /var/www/graylog2-web
 /usr/bin/rake1.9.3 db:mongoid:create_indexes RAILS_ENV=production --trace
