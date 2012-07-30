@@ -1,3 +1,9 @@
+graylog2-web-interface (0.9.6p1-1ubuntu3) lucid; urgency=low
+
+  * add bundler to gems
+
+ -- Jordan Evans <jordan.evans@rackspace.com>  Mon, 30 Jul 2012 18:34:26 +0200
+
 graylog2-web-interface (0.9.6p1-1ubuntu2) lucid; urgency=low
 
   * bump package version, gem versions bumped 
