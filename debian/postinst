@@ -7,4 +7,3 @@ touch log/production.log
 chmod 660 log/production.log
 /usr/bin/gem1.9.1 install ./vendor/cache/bundler-1.1.4.gem
 /usr/local/bin/bundle install
-/usr/bin/rake1.9.3 db:mongoid:create_indexes RAILS_ENV=production --trace
