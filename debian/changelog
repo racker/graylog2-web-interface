@@ -1,4 +1,4 @@
-graylog2-web-interface (0.9.6p1-1ubuntu3) lucid; urgency=low
+graylog2-web-interface (0.9.6p1-2ubuntu3) lucid; urgency=high
 
   * add bundler to gems
 
