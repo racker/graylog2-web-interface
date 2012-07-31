@@ -8,6 +8,6 @@ Homepage: <insert the upstream URL, if relevant>
 
 Package: graylog2-web-interface
 Architecture: any
-Depends: ruby1.9.3, mongodb
+Depends: ruby1.9.3
 Description: <insert up to 60 chars description>
  <insert long description, indented with spaces>
